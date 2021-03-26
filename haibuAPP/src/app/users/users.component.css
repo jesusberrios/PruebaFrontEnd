@@ -1,0 +1,29 @@
+
+.container{
+    display:flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card{
+    margin-top: 1rem ;
+    width: 300px;
+    align-items: center;
+}
+
+.card-footer{
+    color: black;
+    size: 10px;
+}
+.errorRut{
+    color: red;
+}
+.errorYear{
+    color:red;
+}
+.errorMonth{
+    color:red;
+}
+.errorDay{
+    color:red;
+}
